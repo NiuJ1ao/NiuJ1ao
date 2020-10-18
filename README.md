@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Interested in machine learning, natural language processing …… and computer system? \
+\
+Be more specific? Currently learning natural language understanding and natural language generation.
