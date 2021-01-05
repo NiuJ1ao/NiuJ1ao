@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Interested in machine learning, natural language processing and computer system \
+Interested in Machine Learning, Natural Language Processing and Computer System \
 \
-Be more specific? Currently learning natural language understanding and natural language generation.
+Be more specific? Currently learning Natural Language Understanding and Natural Language Generation.
