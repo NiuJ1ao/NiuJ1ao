@@ -1,3 +1,5 @@
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/NiuJ1ao/NiuJ1ao" alt="visitor badge"/>  
+
 ### Hi there 👋
 
 <!--
