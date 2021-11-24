@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Natural Language Processing and Computer System.
+- 🔭 I’m currently working on Machine Learning, Natural Language Processing and Computer System.
