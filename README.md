@@ -1,6 +1,7 @@
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/NiuJ1ao/NiuJ1ao" alt="visitor badge"/>   -->
 
 ### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=NiuJ1ao&theme=github_dark&show_icons=true)
 
 <!--
 **NiuJ1ao/NiuJ1ao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
