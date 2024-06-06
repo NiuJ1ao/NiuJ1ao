@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on Machine Learning, Natural Language Processing and Computer System.
+- 🌱 I’m interested in machine learning (theory and application) and hardware-software co-design.
+- 🔭 I’m currently working on optimization algorithms and machine learning.
