@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m interested in machine learning (theory and application) and hardware-software co-design.
+- 🌱 I’m generally interested in machine learning (theory and application) and hardware-software co-design.
 - 🔭 I’m currently working on optimization algorithms and machine learning.
