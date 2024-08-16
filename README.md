@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m generally interested in machine learning (theory and application) and hardware-software co-design.
-- 🔭 I’m currently working on optimization algorithms and machine learning.
+- 🔭 I’m currently working on large language models and computer systems.
